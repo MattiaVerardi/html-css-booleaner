@@ -1,7 +1,29 @@
-/* inizio logo */
+/* inizio header */
+header {
+    background-color: cornflowerblue;
+    }
 .logo {
-    background-color:cornflowerblue;
-    height: 100px;
-    width: 1500px;
+    height: 40px;
 }
-/* fine logo */
+/* fine header */
+/* inizio section table */
+th {
+    color: aliceblue;
+    background-color: cornflowerblue;
+}
+/* inizio correzione colore testo */
+.text-blue {
+    color: aquamarine;
+}
+.text-grey {
+    color: grey;
+}
+.background-blue {
+    background-color: aquamarine;
+}
+/* fine correzione colore testo */
+/* inizio sfondo testo */
+.background-yellow {
+    background-color: yellow;
+}
+/* fine sfondo testo */
